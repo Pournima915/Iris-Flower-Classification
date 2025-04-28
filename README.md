@@ -22,5 +22,5 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/iris-classification.git
+   git clone https://github.com/Pournima915/iris-classification.git
    cd iris-classification
